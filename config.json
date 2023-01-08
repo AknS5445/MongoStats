@@ -1,0 +1,46 @@
+{
+    "bot": {
+        "token": "TOKEN",
+        "owners": ["kendi idn"],
+        "prefix": ["s!", "!"],
+        "mongoURL": "mongo"
+    },
+    "coin": {
+        "stafs": ["REGİSTER_HAMMER"],
+        "messageCoin": 1,
+        "voiceCoin": 2,
+        "taggesCoin": 5,
+        "publicCoin": 3,
+        "voiceCount": 1,
+        "messageCount": 5,
+        "Tag": "឵TAG"
+    },
+    "parents": {
+        "publicParents": ["PUBLİC"],
+        "registerParents": ["REGİSTER"],
+        "solvingParents": ["SORUN_COZME"],
+        "gameParents": ["OYUN"],
+        "privateParents": ["PRİVATE"],
+        "aloneParents": ["TEKLİ"],
+        "funParents": ["EGLENCE"]
+    },
+    "emojis": {
+        "fill": "DOLU_BAR",
+        "empty": "BİTİK_BAR",
+        "fillStart": "DOLU_BAR_BASLANGIC",
+        "emptyEnd": "BİTİK_BAR_BİTİS",
+        "fillEnd": "DOLU_BAR_BİTİS"
+    },
+    "channels": {
+        "ranklog": "RANK_LOG",
+        "leaderboard": "LEADERBOARD"
+    },
+    "Message": {
+        "ChatleaderBoardMessages": "CHAT_LEADERBOARD_MESSAGE",
+        "VoiceleaderBoardMessages": "VOİCE_LEADERBOARD_MESSAGE"
+    },
+    "Guild": {
+        "GuildID": "SUNUCU_ID",
+        "GuildOwnerRole": ["OWNER_ROL", "OWNER_ROL"]
+    }
+}
